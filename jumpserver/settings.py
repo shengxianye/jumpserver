@@ -79,6 +79,7 @@ INSTALLED_APPS = (
     'jasset',
     'jperm',
     'jlog',
+    'inception',
 )
 
 MIDDLEWARE_CLASSES = (
